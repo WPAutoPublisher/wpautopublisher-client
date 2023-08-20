@@ -1,6 +1,7 @@
 # WPAutoPublisher-Client
 
-![Plugin Logo](logo.png)
+<img src="logo.png" alt="Plugin Logo" width="200"/>
+
 
 Connect your WordPress website with powerful and robust AI tools to boost your platform. WPAutoPublisher-Client turns your website into a content powerhouse by utilizing advanced AI text and image generation features of DALL-E, Stable Diffusion, and ChatGPT4 in a convenient, clean interface.
 
