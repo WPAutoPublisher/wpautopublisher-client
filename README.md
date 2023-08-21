@@ -17,6 +17,7 @@ Connect your WordPress website with powerful and robust AI tools to boost your p
 - **AI-Powered Content Generation**: Utilize the capabilities of ChatGPT4, DALL-E, and Stable Diffusion.
 - **Seamless Integration**: Works with both Gutenberg blocks and the Classic Editor.
 - **Future-Proof**: Product support coming in version 1.1.0 and more features such as social media platform support in later versions.
+- **RTL-Support**: Optimized for Right-to-Left languages with a single-click RTL interface toggle, ensuring a seamless experience for all users.
 
 ## Frequently Asked Questions
 
