@@ -18,6 +18,8 @@ Connect your WordPress website with powerful and robust AI tools to boost your p
 - **Seamless Integration**: Works with both Gutenberg blocks and the Classic Editor.
 - **Future-Proof**: Product support coming in version 1.1.0 and more features such as social media platform support in later versions.
 
+## Notes
+- **Client ZIP folder contians minified css and js files compared to the ones that on main branch outside zip**
 ## Frequently Asked Questions
 
 - **How can I use it?**  
