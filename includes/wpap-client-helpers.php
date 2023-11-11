@@ -37,6 +37,7 @@ function wpap_delete_all_options() {
 // CONDITION INITALIZE CONN BTN
 
 function wpap_show_connect_api_button() {
+    //ESCAPED ON OUTPUT ON OUTPUT SIDES
     return '<button id="wpap-client-initialize-connection" name="wpap-client-initialize-connection">Invoke API Verification</button>';
 }
 
