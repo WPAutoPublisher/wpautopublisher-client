@@ -2,9 +2,9 @@
 Contributors: @wpautopublisher
 Donate link: https://wpautopublisher.com/
 Tags: AI, ChatGPT, ChatGPT4, Stable Diffusion, DALLE, AI Content, Article Generation, Image Generation, AI Generated Content, WPAutoPublisher
-Requires at least: 5.9.6
-Tested up to: 6.3
-Stable tag: 1.0.0
+Requires at least: 4.8
+Tested up to: 6.4.2
+Stable tag: 4.8
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
