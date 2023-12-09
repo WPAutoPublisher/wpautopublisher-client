@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name: WPAutoPublisher-Client
- * Description: Supercharge your WordPress site with AI! WPAutoPublisher-Client seamlessly integrates cutting-edge AI tools like DALL-E, Stable Diffusion, and ChatGPT4. Transform your platform into a content creation powerhouse, generating captivating text and images effortlessly. Experience the future of content creation, today.
+ * Plugin Name: AutoPublisher-Client
+ * Description: Supercharge your WordPress site with AI! AutoPublisher-Client seamlessly integrates cutting-edge AI tools like DALL-E, Stable Diffusion, and ChatGPT4. Transform your platform into a content creation powerhouse, generating captivating text and images effortlessly. Experience the future of content creation, today.
  * Version: 1.0.0
  * Author: WPAutoPublisher Team
  * Author URI: https://WPAutoPublisher.com
